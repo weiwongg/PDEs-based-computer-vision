@@ -1,5 +1,5 @@
 # Computer-vision-problems-and-solution
-Providing exercises and its solution
+Providing exercises and their solution
 
 Chapter 1 containing problems of FFT and basical image filter, and solution as well in solution folder.
 
